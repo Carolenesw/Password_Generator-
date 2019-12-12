@@ -1,3 +1,15 @@
 h1 {
   text-align: center;
 }
+.container pt-3 {
+  /* margin: 0;
+  background-color:#cccccc; */
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #ffffff;
+  border: solid #dddddd 400px;
+  width: 940px;
+  height: 1500px;
+  padding: 20px;
+  margin-right: 100px;
+  margin-right: 100px;
+}
